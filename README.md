@@ -4,13 +4,20 @@
 
 ## 什么是区块链
 
+区块链四个核心技术：哈希运算 (SHA256)、数字签名、P2P网络和工作量证明 (PoW)
+
 ![block-chain-model](./images/block-chain-model.png)
+
+
+### 重要文献资料
+
+* [区块链白皮书 比特币：一种点对点电子现金系统](https://bitcoin.org/bitcoin.pdf)
 
 ## 以太坊生态
 
 ### 重要文档文献
 
-* []()
+* [以太坊白皮书-中文](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6)
 
 ### Solidity 语言
 
