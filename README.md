@@ -15,6 +15,10 @@
 
 ## 以太坊生态
 
+### 重要网址
+
+* [以太坊官网](https://ethereum.org/zh/) 很好的学习开发资料
+
 ### 重要文档文献
 
 * [以太坊白皮书-中文](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6)
